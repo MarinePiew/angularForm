@@ -1,0 +1,15 @@
+.simple-form input.ng-invalid.ng-touched {
+  background-color: #FA787E;
+}
+
+.simple-form input.ng-valid.ng-touched {
+  background-color: #78FA89;
+}
+
+body {
+  padding : 20px;
+}
+
+th {
+  text-align : center;
+}
